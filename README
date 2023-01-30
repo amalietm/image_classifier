@@ -1,0 +1,16 @@
+
+# image classifier 
+
+Models downloaded
+- matplotlib, pyplot
+- os
+- tensorflow
+- keras
+- numpy 
+- cv2
+- google colab, drive
+
+Files include 
+- training of model (ipynb file)
+- testing prediction of model (ipynb file)
+- saved model (pb file)
